@@ -1,0 +1,20 @@
+.card{
+	border-radius:30px;
+}
+
+p{
+	font-style: italic;
+}
+
+body{
+	background-color:azure;
+}
+
+.card-title{
+	margin-top:.75rem;
+}
+
+.UCLlogo{
+	color:black;
+	background-size:20px;
+}
